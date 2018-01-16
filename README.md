@@ -7,3 +7,5 @@ Linux Build Status: [![Build Status](https://travis-ci.org/csm10495/cNVMe.svg?br
 
 Windows Build Status: [![Build status](https://ci.appveyor.com/api/projects/status/7fovagftoeoahgup/branch/master?svg=true)](https://ci.appveyor.com/project/csm10495/cnvme/branch/master)
 
+See https://github.com/intel/cNVMe for the latest on this project. This original repo is just here for historical / archive purposes and is no longer updated.
+
